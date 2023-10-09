@@ -1,11 +1,8 @@
 # Alex Fan's GitHub Page
 
-Welcome to my GitHub page! Here you'll find information about me, my education, programming skills, and projects. Feel free to contact me using the provided contact details.
+Welcome to my GitHub page! Here you'll find information about me, my programming skills and projects. Feel free to contact me here:
 
 - **LinkedIn:** [www.linkedin.com/in/alex--fan](www.linkedin.com/in/alex--fan)
-
-## Personal Statement
-I am a dedicated and enthusiastic individual with a passion for technology. 
 
 ## Programming Skills
 ### Languages
