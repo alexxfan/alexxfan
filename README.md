@@ -2,7 +2,9 @@
 
 Welcome to my GitHub page! Here you'll find information about me, my programming skills and projects. Feel free to contact me here:
 
-- **LinkedIn:** [www.linkedin.com/in/alex--fan](www.linkedin.com/in/alex--fan)
+<p align="left">
+<a href="https://linkedin.com/in/alexxfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexxfan" height="30" width="40" /></a>
+</p>
 
 ## Programming Skills
 ### Languages
