@@ -1,9 +1,9 @@
 # Alex Fan's GitHub Page
 
-Welcome to my GitHub page! Here you'll find information about me, my programming skills and projects. Feel free to contact me here:
+Welcome to my GitHub page! Here you'll find information about my programming skills and projects. Feel free to contact me here:
 
 <p align="left">
-<a href="https://linkedin.com/in/alexxfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexfan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alex--fan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexfan" height="30" width="40" /></a>
 </p>
 
 ## Programming Skills
