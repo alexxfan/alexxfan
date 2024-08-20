@@ -8,17 +8,18 @@ Welcome to my GitHub page! Here you'll find information about my programming ski
 
 ## Programming Skills
 ### Languages
-- :coffee: Java
-- :floppy_disk: SQL
-- :snake: Python
-- :bar_chart: R
-- :computer: HTML
-- :art: CSS
+- Java
+- Python
+- YAML
+- HTML
+- CSS
+- SQL
 
 ### Tools + Technologies
-- :computer: Intellij
-- :octocat: GIT
-- :satellite: REST
-- :cloud: AWS
-- :rocket: Spring Boot
-- :computer: Bash
+- Intellij
+- GIT
+- CI/CD pipelines
+- REST
+- AWS
+- Spring Boot
+- Bash
